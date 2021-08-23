@@ -66,7 +66,7 @@ div.container{
   left: 100px;
 }
 
-/* Elemeto della lista */
+/* Elemento della lista */
 div.lista{
   display: block;
   box-sizing: border-box;
@@ -96,7 +96,7 @@ div.lista{
   color: white;
 }
 
-/* Quadrati dellca carica batteria */
+/* Quadrati della carica batteria */
 
 #square1{
     width: 340px;
